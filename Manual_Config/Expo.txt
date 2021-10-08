@@ -1,0 +1,24 @@
+1-Criar projeto no GitHub
+2-Clonar
+3-Instalação Node:
+	A. Para instalar o Expo é necessário ter instalado o Node:
+		-Baixar e instalar o node pelo site oficial.
+		-Comando: npm --version
+		-OBS: SE NÃO APARECER A VERSÃO O NODE NÃO FOI INSTALADO!
+4-Criar uma conta no site da Expo:
+	A. Logando na conta Expo no terminal:
+		-Comando: expo login => email ou nome de usuário. Vai pedir a senha em seguida.
+		-Comando: expo logout => Serve para sair da conta.
+5-Instalação Expo:
+	A. Segue o passo a passo:
+		-Comando: npm install -g expo-cli
+		-Comando: expo --version
+		-OBS: EXECUTAR DENTRO DA PASTA DO PROJETO.
+6-Criando um projeto:
+	A. Sempre criar projetos na pasta raiz C:
+		-Comando: expo init NomeDoProjeto
+		-OBS: VAI APARECER 3 OPÇÕES DE TEMPLATES, DEVE ESCOLHER A OPÇÃO "blank".
+7-Rodando o projeto:
+	A. Rodando o App:
+		-Comando: expo start -c
+		-OBS: ACESSAR A PASTA DO PROJETO E DENTRO EXECUTAR O COMANDO ACIMA E AGUARDAR O CARREGAMENTO!
