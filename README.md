@@ -1,6 +1,5 @@
 # ReactNative
-Aprendendo ReactNative
 
-Meu primeiro App - "Olá, Mundo!"
+Estrutura básica de um app.
 
-https://user-images.githubusercontent.com/57870481/136600713-fddd4700-5c50-413a-a76a-252d33de9883.mp4
+https://user-images.githubusercontent.com/57870481/136707153-dfb4d9b8-253d-4829-9b78-ebe9f7979fdf.mp4
