@@ -1,6 +1,5 @@
 # ReactNative
-Aprendendo ReactNative
 
-Meu primeiro App - "Olá, Mundo!"
+Estilização com StyleSheet.
 
-https://user-images.githubusercontent.com/57870481/136600713-fddd4700-5c50-413a-a76a-252d33de9883.mp4
+https://user-images.githubusercontent.com/57870481/136704560-354e11b3-0b71-46e8-b013-67d4843076a6.mp4
