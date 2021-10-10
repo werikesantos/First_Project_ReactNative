@@ -1,5 +1,3 @@
 # ReactNative
-Aprendendo ReactNative
 
-Meu primeiro App - "Olá, Mundo!"
-
+Forma diferentes de criar componentes
