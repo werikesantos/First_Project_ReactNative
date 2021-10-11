@@ -1,5 +1,5 @@
 # ReactNative
 
-Iniciando com a estrutura básica.
+Biblioteca - Styled Components
 
-https://user-images.githubusercontent.com/57870481/136716491-e1d1b928-1f74-4ef6-ba64-9804b86ac6f0.mp4
+https://user-images.githubusercontent.com/57870481/136737379-d09f1cdb-ad69-47eb-8b14-2002dcb34732.mp4
