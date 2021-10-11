@@ -1,0 +1,8 @@
+COMANDO PARA BAIXAR:
+
+npm install --save styled-components
+
+OBS: CONFIRMAR SE A DEPENDENCIA FOI INSTALADA.
+Arquivo: package.json > "styled-components": "^5.3.1"
+
+ATENÇÃO: INSTALAR PELO CMD - CONSULTAR A DOCUMENTAÇÃO!
