@@ -1,5 +1,5 @@
 # ReactNative
 
-Iniciando com a estrutura básica.
+Flex-direction
 
-https://user-images.githubusercontent.com/57870481/136716491-e1d1b928-1f74-4ef6-ba64-9804b86ac6f0.mp4
+![1](https://user-images.githubusercontent.com/57870481/137602927-5ecc725d-12b0-4259-9c8e-54b63634644f.png)
