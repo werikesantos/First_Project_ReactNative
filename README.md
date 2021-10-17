@@ -1,11 +1,5 @@
 # ReactNative
 
-Iniciando com a estrutura básica.
+Props e State
 
-ALINHANDO O PROPRIO ITEM => style={{alignSelf:'?'}}
-
-https://user-images.githubusercontent.com/57870481/137634749-6e404ed7-b872-483b-a27a-9e733ee3d1f3.mp4
-
-QUEBRA DE LINHA => flex-wrap:wrap;
-
-https://user-images.githubusercontent.com/57870481/137634789-ca3fb0d6-abe2-4477-98af-a94d9604bc71.mp4
+https://user-images.githubusercontent.com/57870481/137642045-80507339-a1dc-4b38-aaf2-0942b7224750.mp4
