@@ -1,5 +1,5 @@
 # ReactNative
 
-Iniciando com a estrutura básica.
+flex-direction; justify-content; align-items
 
-https://user-images.githubusercontent.com/57870481/136716491-e1d1b928-1f74-4ef6-ba64-9804b86ac6f0.mp4
+https://user-images.githubusercontent.com/57870481/137608295-43ffe874-0a4d-46e4-a1da-9446a47975e2.mp4
