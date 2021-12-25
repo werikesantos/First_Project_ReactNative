@@ -1,6 +1,6 @@
 # ReactNative
-Aprendendo ReactNative
+Projeto - Desconto de Produtos
 
-Meu primeiro App - "Olá, Mundo!"
+Aplicativo que aplica um desconto de 10% em produtos
 
-https://user-images.githubusercontent.com/57870481/136713995-2187a684-7ece-4f4e-82c3-ecb19a7b7236.mp4
+https://user-images.githubusercontent.com/57870481/147375946-91adbf2a-6cc3-49bf-bb84-a1d97f88a50d.mp4
